@@ -1,4 +1,4 @@
-# Awesome Docs
+# Introduction
 
 Welcome to Awesome Docs — the place where I collect and organize everything I learn, research, and want to remember about technical documentation and developer tooling.
 
