@@ -54,7 +54,7 @@ const config: Config = {
     image: "img/social-card.jpg",
 
     navbar: {
-      title: "Awesome Docs",
+      title: "Linh's Awesome Docs",
 
       items: [
         {
@@ -65,7 +65,7 @@ const config: Config = {
         },
 
         {
-          href: "https://github.com/YOUR_USERNAME/awesome-docs",
+          href: "https://github.com/dpplinh28/awesome-docs",
           label: "GitHub",
           position: "right",
         },
@@ -87,7 +87,7 @@ const config: Config = {
         },
       ],
 
-      copyright: `Copyright © ${new Date().getFullYear()} Awesome Docs`,
+      copyright: `Copyright © ${new Date().getFullYear()} Linh's Awesome Docs`,
     },
 
     prism: {
