@@ -1,6 +1,5 @@
 ---
 title: Principles
-tags:
 ---
 # Principles 
 
